@@ -1,6 +1,4 @@
 # -- pr0jctx --
-#  - kelvin -
-#   - bio -
 
 • I am an author. I am currently working on some books at the moment. One is a kitchen recipe book, another is a self help book and I have a puzzle book in the making.
 
